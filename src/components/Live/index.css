@@ -1,0 +1,63 @@
+
+.container{
+    background-color: 	#F5F5F5;
+    min-height: 80vh;
+}
+.live-cont{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.live-30{
+    font-weight: bold;
+ color: black;
+}
+.responded{
+    color: green;
+}
+.unresponded{
+    color: red;
+}
+.bid-created{
+    color: black;
+    font-weight: bold;
+}
+.select-cal{
+    background-color: white;
+    border: none;
+    box-shadow:  1px 1px 1px 1px white;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 0px;
+}
+.filter-icon{
+    color:skyblue ;
+}
+.div-1{
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+  
+}
+.table-header{
+    padding: 20px;
+    width:97%;
+    background-color: navy;
+    border-radius: 10px;   
+}
+th{
+    text-align: start;
+    align-items: flex-start;
+    color:white;
+    font-weight: 400;
+    padding: 15px;
+
+    
+}
+

@@ -1,0 +1,22 @@
+
+td{
+    text-align: left;
+    font-weight: 500;
+    padding:15px;
+   
+}
+.arrow{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.span{
+    color:lightgray;
+    
+}
+.span-1{
+    color:navy;
+    font-weight:bold ;
+}
+.circle{
+    color: green;
+}

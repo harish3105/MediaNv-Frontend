@@ -1,0 +1,44 @@
+.header-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 60px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+}
+.search{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 3px;
+    padding-left: 10px;
+    width: 300px;
+}
+.input-search{
+    border: none;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 3px;
+    
+}
+.live{
+    color: #42b2bd;  
+}
+.create-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: lightgray;
+    border-radius: 20px;
+    height: 40px;
+    width:100px;
+    margin-top: 15px;
+    padding-left: 10px;
+    border: none;
+    font-weight: bold;
+    text-align: center;
+}
+.plus-icon{
+    
+    margin-left: 10px;
+}
